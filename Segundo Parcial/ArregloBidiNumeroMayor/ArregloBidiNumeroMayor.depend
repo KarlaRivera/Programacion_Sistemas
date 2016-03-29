@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457500410 source:c:\users\karla rivera\desktop\progra\arreglobidinumeromayor\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
